@@ -92,7 +92,7 @@ Create a file named **.groovylintrc.json** in the current or any parent director
   - Jenkinsfile
   - **.groovylintrc.json** _(do not forget the dot at the beginning of the file name)_
 
-*If you are using [VsCode Groovy Lint extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint), just use QuickFix* ***Ignore in all files*** *and it will generate groovylintrc.json file*
+*If you are using [VsCode Groovy Lint extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint), just use QuickFix* ***Ignore in all files*** _and it will generate groovylintrc.json file_
 
 ### Format
 
